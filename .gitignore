@@ -1,3 +1,7 @@
 Trained_Model/
 datasets/
 log/
+__pycache__/
+
+*.onnx
+*.pth
